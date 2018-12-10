@@ -1,0 +1,85 @@
+{
+    "cardResults":[
+        {
+            "cardHolderName":"JOSE ESCOBOSO",
+            "cardNumber":"1234567342539412",
+            "cardColor":null,
+            "cardMonth":"02",
+            "cardYear":"22",
+            "cardType":"DEBIT",
+            "cardCvv":"234"
+        },
+        {
+            "cardHolderName":"MATEO PEREZ",
+            "cardNumber":"1234567342539412",
+            "cardColor":null,
+            "cardMonth":"01",
+            "cardYear":"23",
+            "cardType":"DEBIT",
+            "cardCvv":"435"
+        },
+        {
+            "cardHolderName":"PEDRO MARIA",
+            "cardNumber":"1234567342539412",
+            "cardColor":null,
+            "cardMonth":"12",
+            "cardYear":"19",
+            "cardType":"CREDIT",
+            "cardCvv":"432"
+        },
+        {
+            "cardHolderName":"PEDRO MARIA",
+            "cardNumber":"1234567342539412",
+            "cardColor":null,
+            "cardMonth":"12",
+            "cardYear":"19",
+            "cardType":"CREDIT",
+            "cardCvv":"432"
+        },
+        {
+            "cardHolderName":"PEDRO MARIA",
+            "cardNumber":"1234567342539412",
+            "cardColor":null,
+            "cardMonth":"12",
+            "cardYear":"19",
+            "cardType":"CREDIT",
+            "cardCvv":"432"
+        },
+        {
+            "cardHolderName":"PEDRO MARIA",
+            "cardNumber":"1234567342539412",
+            "cardColor":null,
+            "cardMonth":"12",
+            "cardYear":"19",
+            "cardType":"CREDIT",
+            "cardCvv":"432"
+        },
+        {
+            "cardHolderName":"PEDRO MARIA",
+            "cardNumber":"1234567342539412",
+            "cardColor":null,
+            "cardMonth":"12",
+            "cardYear":"19",
+            "cardType":"CREDIT",
+            "cardCvv":"432"
+        },
+        {
+            "cardHolderName":"PEDRO MARIA",
+            "cardNumber":"1234567342539412",
+            "cardColor":null,
+            "cardMonth":"12",
+            "cardYear":"19",
+            "cardType":"CREDIT",
+            "cardCvv":"432"
+        },
+        {
+            "cardHolderName":"PEDRO MARIA",
+            "cardNumber":"1234567342539412",
+            "cardColor":null,
+            "cardMonth":"12",
+            "cardYear":"19",
+            "cardType":"CREDIT",
+            "cardCvv":"432"
+        }
+    ]
+}
